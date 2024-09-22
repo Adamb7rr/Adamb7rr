@@ -10,7 +10,7 @@
  
  🔭 I am currently a student at ALX.
  
- 🌱 I’m currently learning Networking, Build My Portfolio.
+ 🌱 I’m currently learning HTML/CSS/JS.
 
  </div>
  
